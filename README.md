@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Seif Hassan 👋
 
-<!--
-**seifhassan956/seifhassan956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at Ain Shams University
+💻 Interested in Software Engineering & Artificial Intelligence
 
-Here are some ideas to get you started:
+## 🔗 Connect with me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [LinkedIn](https://www.linkedin.com/in/seif-hassan-1169832ab/)
+* [LeetCode](https://leetcode.com/u/seifhassan123/)
+* [CV](https://drive.google.com/drive/folders/1QQoeHwSRYNTyXPXK0QmiW7nF1TUQCJYR)
+
+## 🛠️ Technologies
+
+**Programming:**
+C/C++ · Python · Java · MATLAB
+
+**Software & Web:**
+MERN Stack · React · Node.js · MongoDB · Tailwind CSS · Git · GitHub
+
+**AI & Machine Learning:**
+PyTorch · TensorFlow · Computer Vision · LLMs · RAG · LangChain
+
+**Hardware & Systems:**
+Digital Systems · Microcontrollers · Computer Architecture · Networking
+
+## 📚 Currently Learning
+
+* Agentic AI with LangChain & LangGraph
+* LLMs & RAG
+* Software Engineering
+* Computer Systems & Networking
+
+---
+
+⭐ Feel free to explore my repositories!
